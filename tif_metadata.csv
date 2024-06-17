@@ -1,4 +1,4 @@
-File,Width,Height,Channels,DataType,Description,DateTime
+File,Width,Channnels,Height,DataType,Description,DateTime
 HeLa_GM130_CENP-F_011.tif,1024,3,1024,uint16,"ImageJ=1.53t
 images=3
 channels=3
